@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "logistics-routes": "file:",
     "node-fetch": "^3.3.2"
   }
 }

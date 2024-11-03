@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 import dotenv from 'dotenv';
-import {initialLatitude, initialLongitude, destinationLatitude, destinationLongitude, modules } from '../index';
+import {initialLatitude, initialLongitude, destinationLatitude, destinationLongitude, modules } from '../index.html';
 
 // Configurar o caminho para o arquivo .env
 dotenv.config({ path: './.env' }); // Carrega variáveis do arquivo .env
