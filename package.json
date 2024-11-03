@@ -1,0 +1,17 @@
+{
+  "name": "logistics-routes",
+  "version": "1.0.0",
+  "description": "project for Unama college.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
